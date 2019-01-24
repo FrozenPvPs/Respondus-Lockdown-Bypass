@@ -1,7 +1,7 @@
 Respondus Lockdown Bypass
 
 
-	This is a simple bypass made in C# to bypass Respondus Lockdown Browser.
+	This is a simple browser made in C# to bypass Respondus Lockdown Browser.
 	Basically, you open the compiled executable, and then you open Respondus.
 	The compiled executable will overlap Respondus and you can browse normally with the Respondus Lockdown Bypass.
 
