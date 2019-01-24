@@ -6,7 +6,7 @@ Respondus Lockdown Bypass
 	The compiled executable will overlap Respondus and you can browse normally with the program.
 
 	For example,
-	If your workplace uses Respondus, open this before Respondus is opened and then you can just browse normally.
+	If your workplace uses Respondus, open this before Respondus is opened and then you can just browse normally on this C# browser.
 
 
 	No support will be given for this.
