@@ -13,4 +13,4 @@ Respondus Lockdown Bypass
 	This is based off of IE which is crappy but you can easily make it CefSharp compatible (I'm just lazy).
 
 
-	Fro#7704
+	EDIT: This is now patched.
